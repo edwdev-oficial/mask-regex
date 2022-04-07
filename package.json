@@ -1,0 +1,23 @@
+{
+  "name": "mask-regex",
+  "version": "1.0.0",
+  "description": "mascaras com regex",
+  "main": "inputs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:EdOliveiraJ/mask-regex.git"
+  },
+  "keywords": [
+    "javascript",
+    "regex"
+  ],
+  "author": "Eduardo Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdOliveiraJ/mask-regex/issues"
+  },
+  "homepage": "https://github.com/EdOliveiraJ/mask-regex#readme"
+}
